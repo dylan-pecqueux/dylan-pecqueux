@@ -1,4 +1,4 @@
-# Welcome to my Github page ! <img alt="hi" src="https://raw.githubusercontent.com/dylan-pecqueux/dylan-pecqueux/master/img/wave.gif" width="40px">
+# Welcome to my Github page ! <img alt="hi" src="https://raw.githubusercontent.com/dylan-pecqueux/dylan-pecqueux/master/img/wave.gif" width="35px">
 
 ![Cover](https://github.com/dylan-pecqueux/dylan-pecqueux/blob/main/img/couverture.jpg)
 
