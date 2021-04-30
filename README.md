@@ -1,6 +1,6 @@
 # Dylan Pecqueux
 
-![Cover](https://github.com/dylan-pecqueux/dylan-pecqueux/blob/main/img/Couv.jpg)
+![Cover](https://github.com/dylan-pecqueux/dylan-pecqueux/blob/main/img/couverture.jpg)
 
 <p>Welcome to my Github page ! </br> I'm Dylan, Fullstack developer from Paris, France. </p>
 <h3>Things I code with</h3>
