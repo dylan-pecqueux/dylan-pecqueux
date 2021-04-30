@@ -2,12 +2,7 @@
 
 ![Cover](https://github.com/dylan-pecqueux/dylan-pecqueux/blob/main/img/Couv.jpg)
 
-Welcome to my Github page !
-I'm Dylan, Fullstack developer from Paris, France.
-
-- 🌱 I’m currently learning Python with openclassrooms
-
-<p>Welcome to my Github page! </br> I'm Dylan, Fullstack developer from Paris, France. </p>
+<p>Welcome to my Github page ! </br> I'm Dylan, Fullstack developer from Paris, France. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="JS" src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />  
@@ -18,3 +13,5 @@ I'm Dylan, Fullstack developer from Paris, France.
   <img alt="ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="ruby" src="https://img.shields.io/badge/-Rails-cc0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
 </p>
+
+- 🌱 I’m currently learning Python with openclassrooms
