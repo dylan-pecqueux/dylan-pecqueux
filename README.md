@@ -1,4 +1,4 @@
-# Dylan Pecqueux
+<h1>Dylan Pecqueux</h1>
 
 ![Cover](https://github.com/dylan-pecqueux/dylan-pecqueux/blob/main/img/couverture.jpg)
 
