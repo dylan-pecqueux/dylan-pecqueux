@@ -1,3 +1,6 @@
+
+![Cover](https://github.com/dylan-pecqueux/dylan-pecqueux/blob/main/img/Couv.jpg)
+
 ### Hi there 👋
 
 <!--
