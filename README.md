@@ -4,8 +4,8 @@
 
 Hi ! I'm Dylan, Fullstack developer from Paris, France.
 ## ⚡ Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white)
 <p>
-  <img alt="JS" src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="next" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
