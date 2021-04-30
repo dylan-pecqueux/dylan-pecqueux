@@ -1,4 +1,4 @@
-### Dylan Pecqueux
+# Dylan Pecqueux
 
 ![Cover](https://github.com/dylan-pecqueux/dylan-pecqueux/blob/main/img/Couv.jpg)
 
