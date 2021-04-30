@@ -2,8 +2,8 @@
 
 ![Cover](https://github.com/dylan-pecqueux/dylan-pecqueux/blob/main/img/couverture.jpg)
 
-<p>Hi ! I'm Dylan, Fullstack developer from Paris, France. </p>
-<h3>Things I code with</h3>
+Hi ! I'm Dylan, Fullstack developer from Paris, France.
+## ⚡ Technologies
 <p>
   <img alt="JS" src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
