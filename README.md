@@ -14,7 +14,9 @@ Hi ! I'm Dylan, Fullstack developer from Paris, France.
 ![Ruby](https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-cc0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-083B32?style=flat-square&logo=django&logoColor=white)
 
 ## Learning 🌱
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-D30001?style=flat-square&logo=java&logoColor=white)
